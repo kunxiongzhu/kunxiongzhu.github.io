@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to My Homepage!
 ======
-I'm Kunxiong Zhu, and my research interests are High Performance Computing and Edge Computing. <span style="color:red">I'm currently looking for a PhD position in these exciting fields.</span> Btw, I love hiking and traveling—I've been about 50 cities in China so far! I also dream of keeping a Border Collie or a Labrador someday. If you share my interests, feel free to connect with me! 🤗
+I'm Kunxiong Zhu, with a strong interest in High Performance Computing and Edge Computing. <span style="color:red">I'm currently seeking a PhD position to further explore these exciting fields.</span> Btw, I'm passionate about hiking and traveling—I’ve explored around 50 cities in China! I also dream of having a Border Collie or a Labrador one day. If you share my interests, feel free to connect with me! 🤗
 
 My Footprints
 ------
