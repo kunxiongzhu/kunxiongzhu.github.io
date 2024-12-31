@@ -15,9 +15,14 @@ Education
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * B.Eng. Internet of Things, in Hebei University of Technology, 09/2020 - 07/2024 -->
 * 09/2020 - 07/2024: B.Eng. Internet of Things
-  * [Hebei University of Technology](https://www.hebut.edu.cn/) (HEBUT)
+  * [Hebei University of Technology](https://www.hebut.edu.cn/)
   * Department: School of Artificial Intelligence
   * Location: Tianjin, CN
+
+* 12/2024 - Present: PhD Student in Computer Science
+  * [The University of Georgia](https://www.uga.edu/)
+  * Department: School of Computing
+  * Location: Athens, GA
 
 Honors
 ======
@@ -26,9 +31,9 @@ Honors
 
 Research Interests
 ======
-* High Performance Computing (e.g., Parallel / Heterogeneous Computing)
-* Edge Computing (e.g., Applications of Jetson Boards in Autonomous Driving)
-* Accelerating various applications across different fields with GPUs
+* High Performance Computing
+* Mobile Computing
+* Real-time Machine Learning Systems
 
 Work Experiences
 ======
@@ -38,23 +43,29 @@ Work Experiences
   * Location: Suzhou, CN
   <!-- * Supervisor: [The Users](https://example.com) -->
 
-* 02/2024 - Present: Research Assistant
+* 02/2024 - 11/2024: Research Assistant
   * [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
   * Department: Microelectronics Thrust
   * Location: Guangzhou, CN
-  * Supervisor: [Prof. Hongyuan LIU](https://www.liuhongyuan.com/)
+  <!-- * Supervisor: [Prof. Hongyuan LIU](https://www.liuhongyuan.com/) -->
+
+* 12/2024 - Present: Research Assistant
+  * [The University of Georgia](https://www.uga.edu/)
+  * Department: School of Computing
+  * Location: Athens, GA
+  <!-- * Supervisor: [Prof. Wei Niu](https://niuwei.info/) -->
 
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Programming: CUDA C++, Python (PyTorch), C++, Java, JavaScript, SQL, Shell, LaTex
 * Tool: Docker, Anaconda, Nsight System, Nsight Compute
 * Platform: Edge Devices, HPC clusters
-* Language: Mandarin (native), Sichuan dialect (native), Teochew dialect (native), English (fluent)
+* Language: Mandarin (native), Sichuan dialect (native), Teochew dialect (native), English (fluent) -->
 
 <!-- Publications
 ======
